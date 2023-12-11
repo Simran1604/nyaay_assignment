@@ -1,6 +1,9 @@
+
 # nyaay_assignment
 
 A new Flutter project.
+
+![Screenshot (57)](https://github.com/Simran1604/nyaay_assignment/assets/72657303/6973a256-7c25-4c8f-9553-40af3205ba78)
 
 ## Getting Started
 
